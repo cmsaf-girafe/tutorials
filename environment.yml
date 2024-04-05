@@ -1,0 +1,11 @@
+name: girafe-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - xarray
+  - dask
+  - numpy
+  - matplotlib
+  - netcdf4
+
